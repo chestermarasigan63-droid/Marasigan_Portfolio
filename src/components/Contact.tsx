@@ -7,9 +7,9 @@ import emailIcon from '../assets/email.png';
 import telegramIcon from '../assets/tg.png';
 
 const CONTACT_LINKS = {
-  facebook: 'https://www.facebook.com/your-profile', 
-  email: 'mailto:your.email@example.com',
-  telegram: 'https://t.me/your_telegram_username',
+  facebook: 'https://www.facebook.com/share/19TvcMCgbF/', 
+  email: 'mailto:chestermarasigan63@gmail.com',
+  telegram: 'https://t.me/chestr',
 };
 
 const Contact: React.FC = () => {
@@ -124,5 +124,6 @@ const Contact: React.FC = () => {
     </div>
   );
 };
+
 
 export default Contact;
